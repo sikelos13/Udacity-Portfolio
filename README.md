@@ -1,5 +1,5 @@
 # Portfolio Project
-This is a simple game built for the purpose of Udacity Nanodegree Program.
+This is a simple portfolio built for the purpose of Udacity Nanodegree Program.
 
 ## Getting Started
 This is a simple portfolio hosting my first 3 projects for Udacity Nanodegree Program.
