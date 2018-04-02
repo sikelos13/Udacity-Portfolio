@@ -1,0 +1,25 @@
+.social {
+  display: flex;
+  justify-content: center;
+}
+
+i {
+  color: #324d5c;
+}
+
+.btn {
+  padding: 5px;
+  margin: 2%;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn:hover i {
+  color: #4d9ba6;
+}
+
+.btn:active {
+  transform: translateY(4px);
+  outline: none;
+  cursor: pointer;
+}

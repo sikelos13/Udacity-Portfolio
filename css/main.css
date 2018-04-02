@@ -1,0 +1,116 @@
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: "roboto", sans-serif;
+  font-size: 16px;
+  background-color: #aec3cc;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 3px solid #cbdbd7;
+  margin-bottom: 1%;
+}
+
+.header-title {
+  font-family: "open sans condensed", sans-serif;
+  font-weight: lighter;
+  font-size: 80px;
+}
+
+.header-inner {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-sec {
+  font-weight: lighter;
+  font-size: 25px;
+  align-self: flex-end;
+}
+
+/* Logo made with "https://www.designevo.com/" */
+
+.header-logo {
+  width: 20%;
+}
+
+.mainimage {
+  width: 100%;
+  height: 550px;
+}
+
+.coverpic {
+  margin-bottom: 2%;
+}
+
+.feat-work {
+  font-family: "open sans condensed", sans-serif;
+  font-size: 30px;
+  margin-bottom: 2%;
+  color: #183841;
+}
+
+.projects {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2%;
+}
+
+.project-one {
+  width: 33%;
+  text-align: center;
+}
+
+.project-two {
+  width: 33%;
+  text-align: center;
+  margin-left: 1.5%;
+}
+
+.project-three {
+  width: 33%;
+  text-align: center;
+  margin-left: 1.5%;
+}
+
+.pro-pam {
+  width: 100%;
+}
+
+.pro-arcade {
+  width: 100%;
+  height: 47.5%;
+}
+
+.pro-memory {
+  width: 100%;
+  height: 47.5%
+}
+
+.appdetails h5 {
+  width: 100%;
+  font-size: 21px;
+}
+
+.appdetails a {
+  text-decoration: none;
+  color: #0a1827;
+  outline: none;
+  cursor: pointer;
+}
