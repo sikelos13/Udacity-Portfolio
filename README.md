@@ -2,7 +2,7 @@
 This is a simple portfolio built for the purpose of Udacity Nanodegree Program.
 
 ## Getting Started
-This is a simple portfolio hosting my first 3 projects for Udacity Nanodegree Program.
+This is a simple portfolio hosting my first 3 projects for Udacity Nanodegree Program. Could be opened using https://sikelos13.github.io/Udacity-Portfolio/
 
 ## How I built the Portfolio
 I worked on a pdf template given by Udacity.I made my HTML and CSS from scratch.
